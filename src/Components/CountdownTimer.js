@@ -46,7 +46,7 @@ const CountdownTimer = () => {
 
     const startTimer = () =>{
         
-          const countDownDate =new Date ('June 5,2021 00:00:00').getTime();
+          const countDownDate =new Date ('June 7,2021 00:00:00').getTime();
        
        
 
