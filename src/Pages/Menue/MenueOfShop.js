@@ -6,7 +6,6 @@ import MenuePic from '../../Images/menueBack/menueBack.jpg'
 const MenueOfShop = () => {
     return (
         <Container>
-            
             <img src={MenuePic} alt="Cofee"/>
         </Container>
        

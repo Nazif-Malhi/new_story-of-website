@@ -8,7 +8,6 @@ import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import { Button } from "../../Components/Button.js";
 
 
-
 const CardWrapper =styled.div`
   padding-top: 20%;
   padding-left: 20%;
@@ -70,7 +69,7 @@ const MenueSlider = () => {
                             <h5 class  = "card-title">{items.title}</h5>
                             <p class   = "card-text">{items.Range}</p>
                             <ButtonWrapper>
-                            <Button to = '/checkMenue' primary = 'true' >Check Menue</Button>
+                            <Button primary = 'true' >Check Menue</Button>
                             </ButtonWrapper>
                             </div>
                         </div>
